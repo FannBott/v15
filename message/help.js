@@ -57,7 +57,7 @@ return`━━━━━『 *LIST PREMIUM* 』━━━━━
 }
 exports.groupbot = (prefix) => {
 return
-`kumpulan link grup bot by Ramdani Official (mastah 😎)
+`kumpulan link grup bot by satria (uwuuu 😎)
 Link grup 1 = https://chat.whatsapp.com/Ct1endMh9ZT1TYo6kSfoAO
 Link grup 2 = https://chat.whatsapp.com/Cf4jDsA5m0B5q1cyk7u0su
 Link grup 3 = https://chat.whatsapp.com/BZbJzfeOW9BGCzahAYimTI
