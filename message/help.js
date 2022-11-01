@@ -1,12 +1,12 @@
 exports.infobot = (prefix) => {
 return`• ----------[ *INFO BOT* ]----------
-• *NAMA BOT :* Ramdani Botz
-• *NOMOR BOT :* 6288296339947
-• *NAMA OWNER :* Ramdani Official
-• *NOMOR OWNER :* 6289512545999
-• *LINK :* wa.me/6289512545999
-• *CREATOR :* RAMDANI OFFICIAL
-• *BASE ORI :* RAMDANI OFFICIAL
+• *NAMA BOT :* satria bot
+• *NOMOR BOT :* 66817198420
+• *NAMA OWNER :* satria
+• *NOMOR OWNER :* 66827294199
+• *LINK :* wa.me/66827294199
+• *CREATOR :* satria
+• *BASE ORI :* satria
 • *PREFIX :* MULTI PREFIX
 • *FITUR :* 500+
 • *VERSION :* 17.0.0
@@ -40,9 +40,9 @@ Jika sudah dipahami rules-nya, silakan ketik *${prefix}menu* untuk memulai!`
 exports.sewabot = (prefix) => {
 return`━━━━━『 *LIST SEWA BOT* 』━━━━━
 
-❏ PERHARI : 1 HARI 2K, 5 HARI 10K 
-❏ PERMINGGU : 1MIN. 14K, 2MIN. 28K, 3MIN. 60K,
-❏ PERBULAN : 1B. 30K, 2B. 70K, 3B. 140K,
+❏ PERHARI : 1 HARI 2K, 7 HARI 5K 
+❏ PERMINGGU : 1MIN. 7K, 2MIN. 14K, 3MIN. 20K,
+❏ PERBULAN : 1B. 25K, 2B. 30K, 3B. 35K,
 ❏ PERTAHUN : 1THN. 350K, 2THN. 700K,
 ❏ PERMANEN : TIMDAK TERSEDIA!
 `}
@@ -58,13 +58,13 @@ return`━━━━━『 *LIST PREMIUM* 』━━━━━
 exports.groupbot = (prefix) => {
 return
 `kumpulan link grup bot by Ramdani Official (mastah 😎)
-Link grup 1 = https://chat.whatsapp.com/Gq71DUTFOhRE9efPYyobYu
-Link grup 2 = https://chat.whatsapp.com/I4qx9yNFPXP6cGP7Q1zBhq
-Link grup 3 = https://chat.whatsapp.com/IbGdZllhP0Q92BJrOwvOLK
-Link grup coding bersama = https://chat.whatsapp.com/FR0FmwpBEmQ3HuyF2SIdVQ
-Link grup tes bot = https://chat.whatsapp.com/L8ucMoUQUTt3gKzSvpttbU
-Link grup murid bot = https://chat.whatsapp.com/IyNVUbMxyoSG0Sw0oe6T62
-Link grup saling subscribe = https://chat.whatsapp.com/Dx8VCkqvDSRD5yXXxQ3LK3`
+Link grup 1 = https://chat.whatsapp.com/Ct1endMh9ZT1TYo6kSfoAO
+Link grup 2 = https://chat.whatsapp.com/Cf4jDsA5m0B5q1cyk7u0su
+Link grup 3 = https://chat.whatsapp.com/BZbJzfeOW9BGCzahAYimTI
+Link grup bot santet = https://chat.whatsapp.com/Ct1endMh9ZT1TYo6kSfoAO
+Link grup tes bot = https://chat.whatsapp.com/BZbJzfeOW9BGCzahAYimTI
+Link grup member VIP  = https://chat.whatsapp.com/Ct1endMh9ZT1TYo6kSfoAO
+Link grup bot publik = https://chat.whatsapp.com/Cf4jDsA5m0B5q1cyk7u0su`
 }
 exports.infomenu = (prefix) => {
 return`*⌜ Info Menu⌟*
